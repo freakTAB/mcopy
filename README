@@ -1,0 +1,10 @@
+mcopy - mass copy in perl
+--------------------------
+
+This is a little dirty perl script which copy files from a
+glob to a destination. I came up with it to learn perl and
+to circumvent some problems with the windows cmdline 
+COPY and XCOPY
+
+usage :
+perl mcopy.pl sourceglob destiniation
